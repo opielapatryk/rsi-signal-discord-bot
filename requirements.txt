@@ -1,0 +1,6 @@
+discord.py
+pandas
+requests
+stockstats
+python-dotenv
+apscheduler

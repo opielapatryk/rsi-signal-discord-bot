@@ -73,4 +73,3 @@ For any questions or clarifications, please contact [patryk.opiela02@gmail.com].
 ## License
 
 This project is licensed under the MIT License.
-```
