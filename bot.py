@@ -10,6 +10,7 @@ import requests
 import pandas as pd
 from dotenv import load_dotenv
 from stockstats import StockDataFrame as Sdf
+# I used stockstats instead of pandas_ta, because of bug on numpy side
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 
 
